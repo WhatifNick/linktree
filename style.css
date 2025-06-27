@@ -549,7 +549,7 @@ body {
 .fly-out {
   animation: flyaway 1.3s linear;
   top: -80px;
-  right: 80vw;
+  right: 100vw;
 }
 
 /***** Photo animation start *****/
